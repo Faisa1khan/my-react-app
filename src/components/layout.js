@@ -49,9 +49,7 @@ const Layout = ({ children }) => {
  
     <Header />   
     {children}
-    <Footer data={data}>
-     Made with love using Gatsby
-    </Footer>
+    
    </div>
     
   
